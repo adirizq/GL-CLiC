@@ -86,3 +86,33 @@ uv run train.py
 ```shell
 uv run train.py --dataset CoAuthor -gc -lc -gl -ll
 ```
+
+## Citation
+If you find our codes or paper useful, please consider giving us a star or citing our work.
+
+```bibtex
+@inproceedings{adi-etal-2025-gl,
+    title = "{GL}-{CL}i{C}: Global-Local Coherence and Lexical Complexity for Sentence-Level {AI}-Generated Text Detection",
+    author = "Adi, Rizky  and
+      Irnawan, Bassamtiano Renaufalgi  and
+      Suzuki, Yoshimi  and
+      Fukumoto, Fumiyo",
+    editor = "Inui, Kentaro  and
+      Sakti, Sakriani  and
+      Wang, Haofen  and
+      Wong, Derek F.  and
+      Bhattacharyya, Pushpak  and
+      Banerjee, Biplab  and
+      Ekbal, Asif  and
+      Chakraborty, Tanmoy  and
+      Singh, Dhirendra Pratap",
+    booktitle = "Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics",
+    month = dec,
+    year = "2025",
+    address = "Mumbai, India",
+    publisher = "The Asian Federation of Natural Language Processing and The Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.ijcnlp-long.188/",
+    pages = "3600--3617",
+    ISBN = "979-8-89176-298-5"
+}
+```
